@@ -1,0 +1,35 @@
+.contact input, textarea {
+  font-size:1.65em;
+}
+
+.contact textarea {
+  min-width: 50%;
+}
+
+.title {
+  margin:10px 7px;
+}
+#dash {
+  width:95%;
+  height: 2px;
+  transform: skew(-60deg);
+	-webkit-transform: skew(-60deg);
+	   -moz-transform: skew(-60deg);
+	     -o-transform: skew(-60deg);
+  background: rgb(192, 192, 192);
+  display:block;
+}
+
+.contact label {
+  font-size:1.1em !important;
+}
+
+.contact input,textarea {
+  border: 1px solid rgb(184, 184, 184);
+}
+.contact .button {
+  background: rgb(212, 90, 41)!important;color:white!important;
+
+  margin-top: 10px;
+  display: block !important;
+}
