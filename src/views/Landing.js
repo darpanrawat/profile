@@ -52,7 +52,7 @@ return(
         <hr/>
         <p>My name is Darpan Rawat - I'm a Self taught developer  based in Delhi - India.I work on E-commerce, Data Analytics and Logistic Domains.</p>
         <br/>
-        <p>I have specialized in HTML5, CSS3, JavaScript, Angular, jQuery, React,Redux Web Application Development. I love to write Algo for Complex Data Structure. I am developing websites optimized, clean code with SEO support. as well as I am web Apis  using Node (Express js)
+        <p>I have specialized in HTML5, CSS3, JavaScript, Angular, jQuery, React,Redux Web Application Development. I love to write Algo for Complex Data Structure. I am developing websites optimized, clean code with SEO support as well as i develop Apis  using Node (Express js).
         </p>
     </div>
 
