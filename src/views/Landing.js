@@ -173,12 +173,12 @@ return(
             </a>
         </div>
 
-        <div className="social" id="contact">
+    {/*<div className="social" id="contact">
             <a className="button is-rounded is-medium fa fa-instagram" title="Instagram" href="https://www.instagram.com/skepdimi/" target="_blank" rel="noopener noreferrer"></a>
             <a className="button is-rounded is-medium fa fa-key" title="KeyBase" href="https://keybase.io/johncdf" target="_blank" rel="noopener noreferrer"></a>
             <a className="button is-rounded is-medium fa fa-envelope-o" title="Email" href="mailto:diaz.johndev@gmail.com" target="_blank" rel="noopener noreferrer"></a>
             <a className="button is-rounded is-medium fa fa-github" title="GitHub" href="https://Github.com/SKEPDIMI" target="_blank" rel="noopener noreferrer"></a>
-        </div>
+        </div>*/}
     </div>
 
     <Footer/>
