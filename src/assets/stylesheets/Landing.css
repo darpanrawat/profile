@@ -27,9 +27,8 @@
     height:55px;
   }
   #header-main img {
-    width:55px;
-    height:55px;
-    border-radius:50%;
+    width:100px;
+    height:100px;
     margin-right: auto;
   }
 #header-main .column {

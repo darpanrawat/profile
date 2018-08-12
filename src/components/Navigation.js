@@ -12,7 +12,6 @@ return(
         <img src={logo} style={{borderRadius: '50%', lineHeight:'inherit'}}/>
       </a>
     <a href="/" className="navbar-item">Home</a>
-    <a href="/blogs" className="navbar-item">Blog</a>
     <a href="/contact" className="navbar-item">Contact</a>
 
     

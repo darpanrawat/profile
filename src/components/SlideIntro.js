@@ -86,8 +86,8 @@ return(
  
             <div className="homeSlide slide01 active">
 
-            <p>Self-Taught Developer that works on practical business solutions.</p>
-            <p>Passionate about elegant, reliable, and maintainable code</p>
+            <p>I am a passionate javascript Developer with an experience building web applications, to some of the web's largest sites. Majorly worked in Data Visualisation, Analytics and Ecommerce Domain. Specialties include JavaScript, CSS, HTML, Angular 1.x, React, open-source, Node and web performance</p>
+            
 
             </div>
 

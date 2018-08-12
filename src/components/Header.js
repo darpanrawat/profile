@@ -1,8 +1,8 @@
 import React, {Component} from 'react';
 import $ from 'jquery';
 
-import me from '../assets/img/me.JPG';
-import resume from '../assets/resume.docx';
+import me from '../assets/img/me.gif';
+import resume from '../assets/darpan.pdf';
 
 class Header extends Component {
     toggleNavigation () {
@@ -65,12 +65,6 @@ return(
         <ul>
             <li>
                 <a href="/contact">Say hi</a>
-            </li>
-            <li>
-                <a href="https://Github.com/JohnCdf">Github</a>
-            </li>
-            <li>
-                <a href="/blogs">Blog</a>
             </li>
             <li>
                 <a href={resume} download>Resume</a>
