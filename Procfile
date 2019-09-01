@@ -1,1 +1,1 @@
-web: npm run production
+web: gunicorn portfolio.wsgi --log-file -
