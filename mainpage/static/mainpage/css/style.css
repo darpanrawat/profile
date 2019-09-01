@@ -4,7 +4,8 @@ body {
 	font: 300 14px/1.8 'Raleway', sans-serif;
 	color: #666;
 	overflow-x: hidden;
-	margin-right: -3px;
+	margin-right: 15px;
+    margin-left: 15px;
 }
 
 img {
@@ -406,7 +407,6 @@ div[class^="devicon"] span{
 
 .home-overlay {
     background-color: rgba(44, 62, 80, 0.3);
-    background-image: url("../images/pattern.png");
     background-repeat: repeat;
     height: 100%;
     left: 0;
